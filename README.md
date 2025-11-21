@@ -1,4 +1,4 @@
-# **<p>  <img src="wave.gif" width="30px" height="30px"/>  Muhammad Zain Aslam<p>**     
+# **<p>  <img src="[wave.gif](https://raw.githubusercontent.com/DhanushNehru/DhanushNehru/master/assets/wave.gif)" width="30px" height="30px"/>  Muhammad Zain Aslam<p>**     
 
 **AI Developer | Data Analyst & Agentic AI Developer |**
 
