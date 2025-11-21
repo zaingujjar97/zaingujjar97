@@ -10,13 +10,12 @@
 
 ## 🔗 Connect With Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Tech+Autodidact%2C+Engineer+%26+Programmer;Loves+to+solve+technology+problems+by+code;Likes+to+build+scalable%2C+secure+applications)](https://git.io/typing-svg)
 [![X](https://img.shields.io/badge/X-%23E62429.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/zaingujjar97)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-zain-aslam-/)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/zaingujjar97)
 
--------
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Tech+Autodidact%2C+Engineer+%26+Programmer;Loves+to+solve+technology+problems+by+code;Likes+to+build+scalable%2C+secure+applications)](https://git.io/typing-svg)
 
 
 # 💻 Tech Stack
@@ -30,7 +29,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 
----
+
 
 ### AI & Automation
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-005571?style=for-the-badge)
@@ -42,7 +41,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
------
+
 
 ### Design & Marketing Skills
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
@@ -51,5 +50,5 @@
 ![E-commerce](https://img.shields.io/badge/E-commerce-008080?style=for-the-badge)
 ![Facebook Ads Manager](https://img.shields.io/badge/Facebook%20Ads%20Manager-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 
-
+---
 
