@@ -10,9 +10,10 @@
 
 ## 🔗 Connect With Me
 
-[![X](https://img.shields.io/badge/X-%23E62429.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/zaingujjar97)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-zain-aslam-/)
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=flat&logo=github&logoColor=white)](https://github.com/zaingujjar97)
+[![X](https://img.shields.io/badge/X-%23E62429.svg?style=for-the-badge&logo=twitter&logoColor=white&labelColor=E62429)](https://x.com/Zain_Gujjar97)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-zain-aslam-/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zaingujjar97)
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=15&duration=7000&pause=1000&width=435&lines=Tech+Autodidact%2C+Engineer+%26+Programmer;Loves+to+solve+technology+problems+by+code;Likes+to+build+scalable%2C+secure+applications)](https://git.io/typing-svg)
